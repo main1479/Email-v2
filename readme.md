@@ -1,1 +1,1 @@
-# This is my first ever Email Template Design.
+# This is my first Email Template Design.
